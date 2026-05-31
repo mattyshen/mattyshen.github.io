@@ -2,11 +2,29 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
-nav: false
-nav_order: 6
+description:
+nav: true
+nav_order: 3
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## Columbia University — Department of Statistics
 
-Organize your courses by years, topics, or universities, however you like!
+**Teaching Assistant**
+
+- Interpretable Machine Learning (STAT UN3293/GR5293), Spring 2026
+- Exploratory Data Analysis (STAT GR5702), Fall 2025
+- Applied Machine Learning (STAT UN3106), Spring 2025
+- Advanced Machine Learning (STAT GR5242), Fall 2024
+
+---
+
+## UC Berkeley — Computing, Data Science, and Society
+
+**Lead Teaching Assistant**
+
+- Principles and Techniques of Data Science (DATA C100); Spring 2023, Fall 2023, Spring 2024
+- Featured in [People of CDSS community spotlight](https://cdss.berkeley.edu/), Fall 2023
+
+**Teaching Assistant**
+
+- The Foundations of Data Science (DATA C8); Spring 2022, Fall 2022
