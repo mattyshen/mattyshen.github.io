@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description:
 nav: true
 nav_order: 3
@@ -18,7 +18,7 @@ nav_order: 3
 
 ---
 
-## UC Berkeley — Computing, Data Science, and Society
+## UC Berkeley — College of Computing, Data Science, and Society
 
 **Lead Teaching Assistant**
 
