@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 subtitle: >
-  PhD Student, <a href='https://stat.columbia.edu/'>Columbia University</a>
+  PhD Student at <a href='https://stat.columbia.edu/'>Columbia University</a>
 
 profile:
   align: right
