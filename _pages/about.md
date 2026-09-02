@@ -19,6 +19,6 @@ selected_papers: true
 social: true
 ---
 
-I am a second-year PhD student in the Statistics Department at Columbia University, advised by [David M. Blei](http://www.cs.columbia.edu/~blei/), and am a member of the [Columbia Core AI Lab (CAIL)](https://cail.columbia.edu/). I also work with [John P. Cunningham](https://sites.stat.columbia.edu/cunningham/). Previously, I completed B.A.s in Computer Science and Statistics at UC Berkeley, where I was fortunate to work with [Jasjeet Sekhon](https://www.jsekhon.com/) and [Chunlei Liu](https://chunleiliulab.github.io/).
+I am a third-year PhD student in the Statistics Department at Columbia University, advised by [David M. Blei](http://www.cs.columbia.edu/~blei/). I am also a member of the [Columbia Core AI Lab (CAIL)](https://cail.columbia.edu/). Previously, I completed B.A.s in Computer Science and Statistics at UC Berkeley, where I was fortunate to work with [Jasjeet Sekhon](https://www.jsekhon.com/) and [Chunlei Liu](https://chunleiliulab.github.io/).
 
-My research interests broadly span interpretable machine learning, invariance, causal representation learning, and sequential decision making. I am also interested in generative and probabilistic modeling.
+My research interests broadly span causal inference, invariant and robust machine learning, mechanistic interpretability, and adaptive experimentation. I am also interested in generative and probabilistic modeling.
